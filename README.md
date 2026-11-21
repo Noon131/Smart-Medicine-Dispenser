@@ -1,5 +1,7 @@
 # 🤖 AMMAU: Smart Medicine Dispenser & Insulin Dose Support System
 
+🎓 Final Year Project, Department of CSE, Daffodil International University
+
 🎓 Research project, Quantum Robotics and Automation Research Group (QRARG)
 
 A six-compartment smart medicine dispenser built on a Raspberry Pi 4. It reminds the user with Bangla and English voice alerts, watches every compartment lid with Hall-effect sensors, and includes a basal insulin dose adjustment screen for Type 2 diabetic patients. The full touch interface runs on a 7-inch display.
